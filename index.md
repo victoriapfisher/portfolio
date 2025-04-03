@@ -1,6 +1,8 @@
 # Victoria Paris Fisher
 #### COMPUTATIONAL EPIDEMIOLOGIST & COMMUNICATIONS PROFESSIONAL
 
+## [CONTACT](/contact) | [PROJECT](/projects)
+
 Hi there, I'm Victoria!  
 
 I am a research associate and project manager for the Prioritizing Roots of Oppression in Epidemiologic Systems Science (PROWESS) Group at Michigan State University, College of Human Medicine under PI Nadia Abuelezam, ScD. I have an MPH from the University of Michigan with a focus on ageing-related disease and genetics. 
