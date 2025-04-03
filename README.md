@@ -1,3 +1,5 @@
-# VICTORIA PARIS FISHER
+# Victoria Paris Fisher
 #### COMPUTATIONAL EPIDEMIOLOGIST & PROJECT MANAGER
-### research associate & project manager @ Michigan State University College of Human Medicine
+### Research associate & project manager
+### Michigan State University, College of Human Medicine
+### Prioritizing Roots of Oppression Within Epidemiologic Systems Science (PROWESS) Lab
