@@ -1,7 +1,7 @@
 # Victoria Paris Fisher
 #### COMPUTATIONAL EPIDEMIOLOGIST & COMMUNICATIONS PROFESSIONAL
 
-### [CONTACT](https://victoriapfisher.github.io/portfolio/)  |  [PROJECTS](https://victoriapfisher.github.io/portfolio/projects)   |   [PUBLICATIONS](https://victoriapfisher.github.io/portfolio/publications)
+### [CONTACT](https://victoriapfisher.github.io/portfolio/contact)  |  [PROJECTS](https://victoriapfisher.github.io/portfolio/projects)   |   [PUBLICATIONS](https://victoriapfisher.github.io/portfolio/publications)
 
 Hi there, I'm Victoria!  
 
