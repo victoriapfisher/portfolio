@@ -1,5 +1,7 @@
-layout: page
-output: html
+---
+title: contact
+permalink: /contact
+---
 
 [email](mailto:victoriapfisher@gmail.com)
 
