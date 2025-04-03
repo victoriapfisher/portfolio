@@ -1,7 +1,7 @@
 # Victoria Paris Fisher
 #### COMPUTATIONAL EPIDEMIOLOGIST & COMMUNICATIONS PROFESSIONAL
 
-### [CONTACT](/contact)  |  [PROJECT](/projects)
+### [CONTACT](/contact)  |  [PROJECT](/projects)   |   [PUBLICATIONS](/publications)
 
 Hi there, I'm Victoria!  
 
