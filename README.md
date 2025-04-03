@@ -1,2 +1,3 @@
-# portfolio
-Victoria Paris Fisher
+# victoria paris fisher
+### computational epidemiologist & communications professional
+## research associate & project manager @ Michigan State University College of Human Medicine
