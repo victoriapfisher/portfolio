@@ -9,4 +9,4 @@ I am a research associate and project manager for the Prioritizing Roots of Oppr
 
 Prior to epidemiology, I worked in strategic communications for six years, and have specific experience in achitecture and design, higher academic, and science communications. My creative portfolio can be found [here](https://www.victoriaparis.work). (works best in Chrome)
 
-I live in Cambridge, MA, with my boyfriend. I enjoy running, hiking in Vermont and New Hampshire, reading, and leaving knitting projects half-finished. 
+I live in Cambridge, MA, with my boyfriend and our bonsai tree. I enjoy running, hiking in Vermont and New Hampshire, reading, and leaving knitting projects half-finished. 
