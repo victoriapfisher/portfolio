@@ -87,6 +87,11 @@ h1 {
   line-height: 1.4;
 }
 
+.publication:not(:last-child) {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+}
+
 /* Role line styling */
 .role {
   font-size: 0.95rem;
