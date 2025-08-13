@@ -1,12 +1,14 @@
 ---
+layout: default
 ---
-
-@import "{{ site.theme }}";
+<link rel="stylesheet" href="/assets/css/custom.css">
 
 /* Custom academic styling inspired by Sam Harper's site */
 
 /* Override minimal theme typography */
+
 body {
+    background-color: lightpink;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 18px;
     line-height: 1.6;
