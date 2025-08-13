@@ -5,122 +5,63 @@ layout: default
 
 /* Custom academic styling inspired by Sam Harper's site */
 
-/* Override minimal theme typography */
-
+/* General Reset and Typography */
 body {
-    background-color: lightpink;
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 18px;
-    line-height: 1.6;
-    color: #333;
-    font-weight: 400;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  line-height: 1.6;
+  color: #333;
+  margin: 2rem auto;
+  max-width: 700px;
+  padding: 0 1rem;
+  background-color: #fdfdfd;
 }
 
-/* Header styling */
-header {
-    h1 {
-        font-size: 2.4em;
-        font-weight: normal;
-        color: #2c3e50;
-        margin-bottom: 10px;
-        letter-spacing: -0.5px;
-    }
-    
-    p {
-        font-size: 1.1em;
-        color: #7f8c8d;
-        margin-bottom: 30px;
-        font-style: italic;
-    }
+h1, h2, h3 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
 }
 
-/* Main content area */
-section {
-    max-width: 700px;
-    
-    h1, h2, h3 {
-        font-weight: normal;
-        color: #2c3e50;
-    }
-    
-    h2 {
-        font-size: 1.5em;
-        margin-top: 2.5em;
-        margin-bottom: 1em;
-        border-bottom: 1px solid #ecf0f1;
-        padding-bottom: 0.5em;
-    }
-    
-    h3 {
-        font-size: 1.3em;
-        margin-top: 2em;
-        margin-bottom: 0.8em;
-    }
-    
-    p {
-        margin-bottom: 1.4em;
-        text-align: left;
-    }
+p {
+  margin-bottom: 1.2em;
 }
 
-/* Links - academic style */
 a {
-    color: #3498db;
-    text-decoration: none;
-    
-    &:hover {
-        color: #2980b9;
-        text-decoration: underline;
-    }
+  color: #3498db;
+  text-decoration: none;
 }
 
-/* Special styling for institutional links */
-a[href*="msu.edu"],
-a[href*="umich.edu"],
-a[href*="mcgill.ca"] {
-    font-weight: 500;
+a:hover {
+  text-decoration: underline;
 }
 
-/* Lists */
-ul, ol {
-    margin-bottom: 1.4em;
-    
-    li {
-        margin-bottom: 0.6em;
-    }
+/* Header */
+header {
+  text-align: center;
+  margin-bottom: 2rem;
 }
 
-/* Remove default minimal theme elements we don't want */
-.downloads {
-    display: none;
+header h1 {
+  font-size: 2.4em;
+  font-weight: normal;
 }
 
-/* Footer styling */
+/* Footer */
 footer {
-    margin-top: 3em;
-    padding-top: 2em;
-    border-top: 1px solid #ecf0f1;
-    font-size: 0.9em;
-    color: #95a5a6;
+  margin-top: 4rem;
+  border-top: 1px solid #ddd;
+  padding-top: 1rem;
+  text-align: center;
+  color: #888;
+  font-size: 0.9em;
 }
 
-/* Responsive adjustments */
-@media print, screen and (max-width: 720px) {
-    body {
-        font-size: 16px;
-    }
-    
-    header h1 {
-        font-size: 2em;
-    }
-    
-    section {
-        max-width: none;
-    }
+nav {
+  margin-bottom: 2rem;
+  text-align: center;
 }
 
-@media print, screen and (max-width: 480px) {
-    header h1 {
-        font-size: 1.6em;
-    }
+nav a {
+  margin: 0 0.5rem;
+  font-weight: bold;
 }
