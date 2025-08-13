@@ -7,7 +7,7 @@ layout: default
 /* Reset & Base */
 body {
   margin: 0;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: Helvetica, sans-serif;
   font-size: 18px;
   color: #333;
   background-color: #fdfdfd;
