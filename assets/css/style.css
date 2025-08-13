@@ -77,21 +77,18 @@ h1 {
 /* Remove excessive spacing and lines */
 .publication {
   margin-bottom: 1.5rem;
-  padding-bottom: 0;  /* was likely causing bottom spacing */
+  padding-bottom: 0;  
   border-bottom: none;
 }
 
 /* Tight paragraphs */
 .publication p {
-  margin: 0.4rem 0;
-  line-height: 1.4;
+  margin: 0.75rem 0;
+  text-indent: -1.5em;
+  padding-left: 1.5em;
+  line-height: 1.5;
 }
-
-.publication:not(:last-child) {
-  margin-bottom: 2rem;
-  padding-bottom: 1rem;
-}
-
+  
 /* Role line styling */
 .role {
   font-size: 0.95rem;
