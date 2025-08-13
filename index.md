@@ -17,6 +17,6 @@ My interdisciplinary background spans both public health research and strategic 
 ---
 
 **Contact:** Cambridge, MA  
-**Links:** [Creative Portfolio](https://www.victoriaparis.work) • [CV](link-to-cv)
+**Links:** [Creative Portfolio](https://www.victoriaparis.work) • [CV](Victoria_Fisher_CV_AUG2025.pdf)
 
 *I live in Cambridge, MA, and enjoy running, hiking in Vermont and New Hampshire, reading, and leaving knitting projects half-finished.*
