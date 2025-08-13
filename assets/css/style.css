@@ -68,20 +68,31 @@ footer {
   color: #888;
 }
 
-.publication {
+h1 {
+  font-size: 1.8rem;
+  font-weight: normal;
   margin-bottom: 2rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid #eee;
 }
 
+/* Remove excessive spacing and lines */
+.publication {
+  margin-bottom: 1.5rem;
+  padding-bottom: 0;  /* was likely causing bottom spacing */
+  border-bottom: none;
+}
+
+/* Tight paragraphs */
 .publication p {
-  margin: 0.2em 0;
+  margin: 0.4rem 0;
+  line-height: 1.4;
 }
 
-.publication ul {
-  margin: 0.5em 0 0 1.5em;
+/* Role line styling */
+.role {
+  font-size: 0.95rem;
+  color: #444;
+  margin-left: 1rem;
 }
-
 .container {
   max-width: 960px;
   margin: 2rem auto;
