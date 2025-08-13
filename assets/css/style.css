@@ -2,13 +2,13 @@
 layout: default
 ---
 <link rel="stylesheet" href="/assets/css/custom.css">
-
+<link href="https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap" rel="stylesheet">
 /* Custom academic styling inspired by Sam Harper's site */
 
 /* Reset & Base */
 body {
   margin: 0;
-  font-family: Nunito Sans, sans serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 18px;
   color: #333;
   background-color: #fdfdfd;
