@@ -65,3 +65,17 @@ nav a {
   margin: 0 0.5rem;
   font-weight: bold;
 }
+
+.publication {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.publication p {
+  margin: 0.2em 0;
+}
+
+.publication ul {
+  margin: 0.5em 0 0 1.5em;
+}
