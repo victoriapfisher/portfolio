@@ -5,67 +5,67 @@ layout: default
 
 /* Custom academic styling inspired by Sam Harper's site */
 
-/* General Reset and Typography */
+/* Reset & Base */
 body {
-  max-width: 680px;
-  margin: 2rem auto;
-  line-height: 1.5;
+  margin: 0;
   font-family: Georgia, serif;
+  font-size: 18px;
   color: #333;
-  padding: 0 1rem;
-  background-color: #fafafa;
+  background-color: #fdfdfd;
 }
 
-h1, h2, h3 {
-  color: #2c3e50;
-  margin-bottom: 1rem;
-  font-weight: normal;
-}
-
-a {
-  color: #0056b3;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Header */
+/* Header with Nav */
 header {
-  text-align: right;
-  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #ddd;
+  background: white;
 }
 
-header nav a {
-  margin: 0 0.3rem;
+.nav-left {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.nav-right a {
+  margin-left: 1rem;
   text-decoration: none;
-  color: #555;
-  font-size: 1rem;
+  color: #444;
 }
 
-header nav a:hover {
+.nav-right a:hover {
   text-decoration: underline;
 }
 
-/* Footer */
+/* Main Container */
+.container {
+  max-width: 960px;
+  margin: 2rem auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 0 1rem;
+}
+
+.profile-photo img {
+  max-width: 300px;
+  width: 100%;
+  border-radius: 6px;
+}
+
+.bio-text {
+  flex: 1;
+  min-width: 300px;
+}
+
+/* Footer (optional) */
 footer {
-  margin-top: 4rem;
-  border-top: 1px solid #ddd;
-  padding-top: 1rem;
   text-align: center;
+  padding: 2rem;
+  font-size: 0.9rem;
   color: #888;
-  font-size: 0.9em;
-}
-
-nav {
-  margin-bottom: 2rem;
-  text-align: center;
-}
-
-nav a {
-  margin: 0 0.5rem;
-  font-weight: bold;
 }
 
 .publication {
